@@ -6,6 +6,7 @@ app/tooling/sales-admin/logfmt
 app/tooling/sales-admin/docs
 .excalidraw
 database-data/
+vendor/
 
 # Environment
 app/frontends/admin/.env
@@ -46,3 +47,9 @@ _testmain.go
 //*.test
 .vscode/tasks.json
 zarf/compose/database-data/data
+
+# VSCode 
+.vscode
+.images
+.circleci
+
